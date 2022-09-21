@@ -2,6 +2,8 @@
 
 ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg) ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 
+(logo.png)
+
 ## About Appi, TL;DR
 
 Appi is a Low Code / No Code framework build on an distributed data pipeline. Out of the box Appi aims to provides everything you need to release, operate and maintain services, backends and fullstack applications.
@@ -41,5 +43,5 @@ Appi comes in two versions: Community Edition, which it a freely available publi
 2. Run Service Commands: 
 
     A. `docker exec appi ./appi-cli --addr 0 --tail SYSTEM --host appi:8099 --sudo TESTSECRET`
-    
+
     B. `...`
