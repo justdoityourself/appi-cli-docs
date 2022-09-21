@@ -7,13 +7,17 @@
 
 ## About Appi, TL;DR
 
+
 Appi is a Low Code / No Code framework build on an distributed data pipeline. Out of the box Appi aims to provides everything you need to release, operate and maintain services, backends and fullstack applications.
 
+
 ## About Appi-CLI
+
 
 Appi-CLI provides a command line inerface into the Appi Ecosystem. It is used to run Appi Server Instances, Backend Services and Edge Clients.
 
 Appi comes in two versions: Community Edition, which it a freely available public version; And Enterprise Edition, which is a paid commercial product. The primary distinction is that the community edition is limited to a single node, where the enterprise edition supports clustering and sharding.
+
 
 ### Community Server
 
@@ -33,7 +37,9 @@ Appi comes in two versions: Community Edition, which it a freely available publi
 
     B. Manage the container: `docker attach appi`
 
+
 ### Service
+
 
 1. Create Service Container: 
 
