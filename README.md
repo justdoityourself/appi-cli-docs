@@ -1,4 +1,4 @@
-# Appi CLI Documentation
+# Appi-CLI Documentation
 
 <img src="logo.png" width="400">
 
