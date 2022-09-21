@@ -2,6 +2,7 @@
 
 ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg) ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 
+<img src="logo.png" width="800">
 ![appi logo](logo.png)
 
 ## About Appi, TL;DR
