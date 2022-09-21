@@ -1,6 +1,8 @@
 # Appi CLI Documentation
 
 <img src="logo.png" width="400">
+
+
 ![build succeeded](https://img.shields.io/badge/build-succeeded-brightgreen.svg) ![Test passing](https://img.shields.io/badge/Tests-passing-brightgreen.svg)
 
 ## About Appi, TL;DR
